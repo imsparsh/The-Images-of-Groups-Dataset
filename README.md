@@ -20,19 +20,23 @@ Wedding images, Family images, or Group images. The folders of images are as fol
     Group5a
     Group8a
 
-*It stores the output arranged by the directory named to ageGroup as specified below, and the gender to image title followed by an underscore.
+**It stores the output arranged by the directory named to ageGroup as specified below, and the gender to image title followed by an underscore.**
 
-Human-Labeled Age: 
+
+**Human-Labeled Age:**
+
 Faces were labeled as one of 7 categories, corresponding to 7 age ranges: 
-Label       Age Range
-1       0-2
-5       3-7
-10      8-12
-16      13-19
-28      20-36
-51      37-65
-75      66+
 
-Human-Labeled Gender:
-1       Female
-2       Male 
+    Label       Age Range
+    1       0-2
+    5       3-7
+    10      8-12
+    16      13-19
+    28      20-36
+    51      37-65
+    75      66+
+
+**Human-Labeled Gender:**
+
+    1       Female
+    2       Male 
